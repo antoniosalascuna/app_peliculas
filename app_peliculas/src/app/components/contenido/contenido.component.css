@@ -1,0 +1,24 @@
+header, nav, article, footer, section
+{
+display: block;
+padding: 5px;
+margin: 5px;
+background-color: aquamarine;
+}
+
+nav {
+  width: 15%;
+  float: left;
+}
+
+section{
+  width: 75%;
+  float: right;
+}
+
+footer{
+clear: both;
+}
+article{
+  background-color: cadetblue;
+}

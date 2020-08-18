@@ -17,13 +17,15 @@ import { InformacionComponent } from './components/informacion/informacion.compo
 import { AppRoutingModule } from './app-routing.module';
 import { ToastrModule } from 'ngx-toastr';
 import { NgxFileDropModule } from 'ngx-file-drop';
+import { Formulario1Component } from './components/formulario1/formulario1.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListardatosComponent,
     SidenavComponent,
-    InformacionComponent
+    InformacionComponent,
+    Formulario1Component
   ],
   imports: [
     BrowserModule,
