@@ -1,0 +1,22 @@
+.contenido{
+
+border-style: solid;
+border-radius: 8px;
+height: 100%;
+}
+
+.example-container{
+
+  position: relative;
+  height: 120%;
+  top:36%;
+  }
+
+  .listaactores
+  {
+    position: relative;
+    height: 330px;
+    overflow: auto;
+
+  }
+
